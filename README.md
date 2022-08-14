@@ -10,7 +10,7 @@
 🎓 &nbsp;I'm currently studying Bachelors of Computer Application at Aadim National College.\
 🌱 &nbsp;I'm on track for learning more about Angular and Spring Boot.\
 ✍️ &nbsp;In my free time, I pursue Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at nayivadahal@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.aviyandahal.com.np) for more details about me. I'm open to feedback and suggestions!
 
